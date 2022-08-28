@@ -9,4 +9,4 @@ Opencore 0.8.3
 * Mem: Lenovo 16G * 2
 * NVMe: SN750
 * Wifi/Bluetooth: BCM9435Z
-已是完美黑苹果！
+# 已是完美黑苹果！
